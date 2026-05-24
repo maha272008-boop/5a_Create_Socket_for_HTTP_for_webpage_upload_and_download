@@ -99,8 +99,7 @@ c.close()
 ```
 ## OUTPUT
 
-<img width="1216" height="445" alt="{00C50FD0-1A7A-401F-99B4-DAB962170E20}" src="https://github.com/user-attachments/assets/4f46a8b3-dac1-4833-9f7b-f605bea42e05" />
-<img width="1370" height="328" alt="{F8E0108B-DC8B-4262-A4A1-37E1CB39AAB2}" src="https://github.com/user-attachments/assets/c7c579d2-a6f5-4b21-9101-1ba3b1bc0a3a" />
+<img width="930" height="462" alt="image" src="https://github.com/user-attachments/assets/9678553e-f4cc-432d-86b6-607311e53525" />
 
 
 
